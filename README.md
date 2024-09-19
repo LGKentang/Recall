@@ -19,8 +19,8 @@ Me and my partner `josetano2` wanted to create an app that enables us to learn q
 ## 📚 Tech Stack
 
 <div style=" display:flex; align-items:center; justify-content:center; gap:40px; width:500px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="README_DATA/05. Stacks/SpringBoot.png" height="100" alt="spring"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="README_DATA/05. Stacks/Firebase.svg" width="400" alt="firebase" style="margin-left:30px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="README_DATA/05. Stacks/SpringBoot.png" height="100" alt="spring"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="README_DATA/05. Stacks/Firebase.svg" width="400" alt="firebase" style="margin-left:30px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="README_DATA/05. Stacks/Kotlin.png" width="100" alt="kotlin"/>
 </div >
 
