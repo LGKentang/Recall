@@ -27,33 +27,33 @@ Me and my partner `josetano2` wanted to create an app that enables us to learn q
 ## 📷 Screenshots
 
 <div style="display:flex">
-  <img src="./README_DATA/04. Screenshot/LandingPage.png" height="400"></img>
+  <img src="./README_DATA/04. Screenshot/LandingPage.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="./README_DATA/04. Screenshot/HomePage.png" height="400"></img>
+  <img src="./README_DATA/04. Screenshot/HomePage.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="./README_DATA/04. Screenshot/AddDeckPage.png" height="400"></img>
+  <img src="./README_DATA/04. Screenshot/AddDeckPage.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./README_DATA/04. Screenshot/DeckDetailPage.png" height="400"></img>
+  <img src="./README_DATA/04. Screenshot/DeckDetailPage.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div style="display:flex; margin-top:10px">
-  <img src="./README_DATA/04. Screenshot/FlipCardAfter.png" height="400"></img>
+  <img src="./README_DATA/04. Screenshot/FlipCardAfter.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp;
- <img src="./README_DATA/04. Screenshot/RecallSummary.png" height="400"></img>
+ <img src="./README_DATA/04. Screenshot/RecallSummary.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="./README_DATA/04. Screenshot/LoginPage.png" height="400"></img>
+  <img src="./README_DATA/04. Screenshot/LoginPage.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="./README_DATA/04. Screenshot/ProfilePage.png" height="400"></img>
+  <img src="./README_DATA/04. Screenshot/ProfilePage.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp; 
 </div>
 
 <div style="display:flex; margin-top:10px">
- <img src="./README_DATA/04. Screenshot/EditProfilePage.png" height="400"></img>
+ <img src="./README_DATA/04. Screenshot/EditProfilePage.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img src="./README_DATA/04. Screenshot/RegisterPage.png" height="400"></img>
+  <img src="./README_DATA/04. Screenshot/RegisterPage.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./README_DATA/04. Screenshot/SearchPage.png" height="400"></img>
+  <img src="./README_DATA/04. Screenshot/SearchPage.png" height="350"></img>
   &nbsp;&nbsp;&nbsp;&nbsp;
 </div >
 
