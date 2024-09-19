@@ -1,16 +1,7 @@
-<p align="center" style="font-size:32px; font-weight:500">
-    Recall
-</p>
-
-<hr>
-
+<h1 align="center">Recall</h1>
 <p align="center" style="margin-top:24px">
   <img src="README_DATA/03. App Banner/Recall.png" width="400" alt="VCTClipper Logo"/>
 </p>
-
-<!-- <p align="center" style="margin-top:24px">
-  <img src="README_DATA/02. Icon/logo_fin.png" width="150" alt="VCTClipper Logo"/>
-</p> -->
 
 `Recall` is a mobile app for sharing and optimizing flashcards online, utilizing the Supermemo2 Algorithm to boost learning efficiency
 
@@ -28,8 +19,8 @@ Me and my partner `josetano2` wanted to create an app that enables us to learn q
 ## 📚 Tech Stack
 
 <div style=" display:flex; align-items:center; justify-content:center; gap:40px; width:500px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="README_DATA/05. Stacks/SpringBoot.png" height="100" alt="spring"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="README_DATA/05. Stacks/Firebase.svg" width="400" alt="firebase" style="margin-left:30px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="README_DATA/05. Stacks/SpringBoot.png" height="100" alt="spring"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="README_DATA/05. Stacks/Firebase.svg" width="400" alt="firebase" style="margin-left:30px"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="README_DATA/05. Stacks/Kotlin.png" width="100" alt="kotlin"/>
 </div >
 
